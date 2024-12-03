@@ -1,5 +1,5 @@
 title = "Infuse"
-baseURL = "https://infuse.quest"
+baseURL = "https://infuse-br.safetag.org/"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
