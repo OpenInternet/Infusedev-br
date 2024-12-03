@@ -48,7 +48,7 @@ jobs:
       run: hugo --minify
 
     - name: Create CNAME file
-      run: echo 'infusedev.safetag.org' > public/CNAME
+      run: echo 'infuse-br.safetag.org' > public/CNAME
 
     - name: Build Pagefind index
       run: npx pagefind --site "public"
